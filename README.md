@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
-<img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,cpp,c,tailwind,js,react,java,py,mongodb,mysql,atom,eclipse,vscode,postman,netlify,vercel,figma,linux,r,postgres,php,xd,express,arduino,matlab,materialui,redux" alt="skills logos" /> 
+<img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,cpp,c,tailwind,js,react,java,py,mongodb,mysql,atom,eclipse,vscode,postman,figma,linux,r,postgres,php,xd,express,materialui,redux" alt="skills logos" /> 
 
 <h3> <strong> Actively Learning </strong></h3>
 <img src="https://skillicons.dev/icons?i=docker,bootstrap,vue,dotnet,angular" alt="skills actively learning logos"> <br>
